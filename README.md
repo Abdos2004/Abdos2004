@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### My name is Abdalrahman
-- 🔭 I’m currently working on projects for python, HTML + CSS
-- 🌱 I’m currently learning pyhton
+- 🔭 I’m currently working on projects for python, HTML + CSS + Java Script, C# + .Net, C, Java
+- 🌱 I’m currently learning more about frameworks
 - 🤔 I’m looking for help with Django
 - 💬 Ask me about python
 - 📫 How to reach me: on github
